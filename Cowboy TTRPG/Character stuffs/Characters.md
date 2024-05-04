@@ -5,5 +5,7 @@
 [[Agility skill]]
 [[Strength Skill]]
 
+[[Evasiveness]]
+
 [[Magic]]
 [[Weapons]]

@@ -8,46 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "322b5e5e327fe1d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concepts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e908c9d5655d31e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character stuffs/Smarts skill.md",
+                "file": "Actions/Taking aim.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "03db35f62f3a1a60",
+        "id": "841b51f0608c81f8",
         "type": "tabs",
         "children": [
           {
-            "id": "9ccef5620e7a1e97",
+            "id": "61bda1586ef3b081",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Magic.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -116,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Magic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Magic.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -178,23 +157,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b88879420ce4025d",
+  "active": "61bda1586ef3b081",
   "lastOpenFiles": [
+    "Actions/Taking aim.md",
+    "Character stuffs/Agility skill.md",
+    "Critical.md",
+    "Actions/Shooting.md",
+    "Encounters/Combat.md",
+    "Character stuffs/Calm speaking skill.md",
+    "Character stuffs/Aggressive speaking skill.md",
+    "Character stuffs/Strength Skill.md",
+    "Actions/Melee.md",
+    "Character stuffs/Evasiveness.md",
+    "Character stuffs/Characters.md",
+    "Actions/Distraction.md",
+    "Actions/Movement.md",
     "Character stuffs/Smarts skill.md",
     "Character stuffs/Perception skill.md",
-    "Magic.md",
-    "Concepts.md",
-    "Weapons.md",
+    "Actions/Vault object.md",
+    "Actions/Taking cover.md",
+    "Cover.md",
     "Encounters/Tension.md",
+    "Concepts.md",
+    "Actions",
+    "Magic.md",
+    "Archetypes.md",
+    "Weapons.md",
     "Encounters/Conversation.md",
-    "Encounters/Combat.md",
-    "Character stuffs/Characters.md",
     "Stats.md",
     "Character stuffs/Stats.md",
-    "Untitled.md",
     "Encounters",
-    "Character stuffs",
-    "Speed skill.md",
-    "Shooting Skill.md"
+    "Character stuffs"
   ]
 }
